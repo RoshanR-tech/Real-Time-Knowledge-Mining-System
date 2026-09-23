@@ -1,0 +1,9 @@
+.DS_Store
+target/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
